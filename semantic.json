@@ -21,6 +21,7 @@
   "components": [
     "reset",
     "site",
+    "header",
     "menu"
   ],
   "~components": [
@@ -28,7 +29,6 @@
     "container",
     "divider",
     "flag",
-    "header",
     "icon",
     "image",
     "input",
